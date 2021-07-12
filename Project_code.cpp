@@ -2,19 +2,6 @@
 /*
 	Content Recommender System
 
-	Team Members :
-
-	Name : Abhishek Anand
-	Enroll ID : 19103236
-	
-	Name : Kartike Tiwari
-	Enroll ID : 19103216
-	
-	Name : Riya Saxena
-	Enroll ID : 19103215
-
-	Batch : B7
-
 	Compilation command : g++ proj.cpp
 	Execution Command : ./a.out <input_file> <U> <K>
 						Eg. ./a.out input.txt 0 2
