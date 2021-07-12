@@ -18,7 +18,7 @@ During traversal, if the distance exceeds K then the loop exits and the recommen
 Once the system has printed the output, the memory allocated for the linked list is freed and program terminates.
 
 
-![ss1](https://user-images.githubusercontent.com/50799286/125318902-e9da7480-e357-11eb-9a36-425498b7a692.jpg)
+![ss1](https://user-images.githubusercontent.com/50799286/125319333-4b9ade80-e358-11eb-9be6-8f4ded7d9be0.jpg)
 
 
 ![ss2](https://user-images.githubusercontent.com/50799286/125319035-09719d00-e358-11eb-8c76-400f9900272b.jpg)
